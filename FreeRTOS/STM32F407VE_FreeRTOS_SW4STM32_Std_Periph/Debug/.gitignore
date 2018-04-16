@@ -1,0 +1,8 @@
+/FreeRTOS/
+/StdPeriph_Driver/
+/src/
+/startup/
+/makefile
+/objects.list
+/objects.mk
+/sources.mk
